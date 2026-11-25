@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,clau.de,🏠住宅出口-勿选
 DOMAIN-SUFFIX,anthropic.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,claudeusercontent.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,claudemcpcontent.com,🏠住宅出口-勿选
+DOMAIN-SUFFIX,claudemcpclient.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,modelcontextprotocol.io,🏠住宅出口-勿选
 DOMAIN-KEYWORD,anthropic,🏠住宅出口-勿选
 DOMAIN-KEYWORD,claude,🏠住宅出口-勿选
@@ -63,6 +64,7 @@ DOMAIN-SUFFIX,wise.com,🏠住宅出口-勿选
 
 # === 身份认证（KYC）===
 DOMAIN-SUFFIX,withpersona.com,🏠住宅出口-勿选
+DOMAIN-SUFFIX,frompersona.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,sumsub.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,onfido.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,veriff.com,🏠住宅出口-勿选
@@ -88,6 +90,7 @@ DOMAIN-SUFFIX,sift.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,forter.com,🏠住宅出口-勿选
 DOMAIN-SUFFIX,intercom.io,🏠住宅出口-勿选
 DOMAIN-SUFFIX,intercomcdn.com,🏠住宅出口-勿选
+DOMAIN-SUFFIX,statsigapi.net,🏠住宅出口-勿选
 
 # === 出口 IP 与纯净度检测站 ===
 DOMAIN-SUFFIX,webshare.io,🏠住宅出口-勿选
